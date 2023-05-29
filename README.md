@@ -12,23 +12,23 @@
 # The input file contains the initial data that is used to populate the model. It also includes the number of days needed for the simulation.
 
 # Opening the input file, the format is as follows:
- <number of simulation days>
- <number of people in the general community>
- <number of inmates in minimum security prisons>  
- <number of prison staff in minimum security prisons>
- <number of healthcare staff in minimum security prisons>
- <number of essential visitors in minimum security prisons>
- <number of family visitors in minimum security prisons>
- <number of inmates in medium security prisons>  
- <number of prison staff in medium security prisons>
- <number of healthcare staff in medium security prisons>
- <number of essential visitors in medium security prisons>
- <number of family visitors in medium security prisons>
- <number of inmates in maximum security prisons>  
- <number of prison staff in maximum security prisons>
- <number of healthcare staff in maximum security prisons>
- <number of essential visitors in maximum security prisons>
- <number of family visitors in maximum security prisons>
+# <number of simulation days>
+# <number of people in the general community>
+# <number of inmates in minimum security prisons>  
+# <number of prison staff in minimum security prisons>
+# <number of healthcare staff in minimum security prisons>
+# <number of essential visitors in minimum security prisons>
+# <number of family visitors in minimum security prisons>
+# <number of inmates in medium security prisons>  
+# <number of prison staff in medium security prisons>
+# <number of healthcare staff in medium security prisons>
+# <number of essential visitors in medium security prisons>
+# <number of family visitors in medium security prisons>
+# <number of inmates in maximum security prisons>  
+# <number of prison staff in maximum security prisons>
+# <number of healthcare staff in maximum security prisons>
+# <number of essential visitors in maximum security prisons>
+# <number of family visitors in maximum security prisons>
 
 # This data can be modified
   
